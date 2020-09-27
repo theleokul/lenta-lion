@@ -1,6 +1,6 @@
 # Lenta Lion -- personal goods assistant
 
-Lenta Lion is the assistant that fully automates goods routine in Lenta. Clients no longer need to spend time, go the stores to select and buy products manually. Lenta Lion automatically proposes the full basket of goods anticipating clients desires (based on Item-Based Collaborative Filtering - the well-known recommender system that is used even in Amazon). Moreover if there is a lack of favourite products, Lenta Lion automatically proposes alternatives and applies the personal discount. More details in the video: **youtube_link**.
+Lenta Lion is the assistant that fully automates goods routine in Lenta. Clients no longer need to spend time, go the stores to select and buy products manually. Lenta Lion automatically proposes the full basket of goods anticipating clients desires (based on Item-Based Collaborative Filtering - the well-known recommender system that is used even in Amazon). Moreover if there is a lack of favourite products, Lenta Lion automatically proposes alternatives and applies the personal discount. More details in the video: [Lenta Lion's presentation](https://www.youtube.com/watch?v=s2306j6BAc8&feature=youtu.be)
 
 ## The design of Lenta Lion: 
 
